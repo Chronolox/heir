@@ -15,7 +15,7 @@ This repository hosts official, pre-compiled desktop application releases, insta
 
 Heir Unlocker is the standalone recipient and heir application: designed to unlock and reveal time-locked `.clox` secret capsules when their autonomous release date arrives. It operates completely **gasless** and requires **zero cryptocurrency wallet, tokens, or blockchain expertise**.
 
-Pre-built desktop installers (`.deb`, `.msix`), application bundles (`.app`), and standalone archives are available on the [Releases](https://github.com/Chronolox/heir/releases) page.
+Pre-built desktop installers (`.deb`, `.msix`), application bundles (`.app`), and standalone archives are available on the [Releases](https://github.com/Chronolox/heir/releases) page. For a guided installer with automatic platform detection, see the [Downloads & Installation](https://chronolox.com/downloads) page.
 
 ---
 
